@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Udacity Single Screen App</string>
+    <string name="image_desc">Coffee Shop</string>
+    <string name="business_name">Udacity Single Screen Coffee Shop</string>
+    <string name="info">The best coffee in my town</string>
+    <string name="website">www.tolgaduran.com</string>
+    <string name="hours">09:00 - 22:00</string>
+    <string name="email">Email Us</string>
+</resources>
